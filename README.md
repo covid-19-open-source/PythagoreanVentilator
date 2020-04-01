@@ -1,7 +1,13 @@
 # Pythagorean Ventilator
 A simple, fail safe, ventilator functioning based on a Pythagorean device. 
-The ventilator can be rapidly and massively produced by anyone with basic plumping skills with parts abundantly available  in any hardware store.
-![Alt](PythagoreanVentilator.png "Pythagorean Ventilator")
+The ventilator can be rapidly and massively produced by anyone with basic plumping skills with parts abundantly available  in any hardware store.  
+
+> **Our cause is to address the immediate need of the production of thousands of ventilators locally.**  
+
+![Alt](PythagoreanVentilator.png "Pythagorean Ventilator")  
+
+> Pipes and dimensions are depictive. To ensure proper timing larger drain flow is required either by enlarging pipe or hose diameter or by using multiple pipes  
+
 
 The pandemia outbreak created an immediate demand impossible to source from traditional manufacturers. The Open movement that emerged is trying to develop slutions but the utilization of hobby electronics and mechanical contraptions harbors intrinsic dangers as bugs and glitches will result in DEATHS. Also most of the solution developed require skilled people to develop and manufacture/assemble/operate and materials that cannot be sourced in volumes of thousands.
 Following a KISS approach this ventilator uses the minimum number of moving and fail prone parts while enabling anyone to assemble and operate it.
